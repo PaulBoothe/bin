@@ -1,3 +1,7 @@
+######## this program must be run with 'protExtract.txt' in the working directory. 'protExtract.txt' is the output of the
+######## iRefExtract4.py. 
+
+
 import sys, re
 
 import gzip
